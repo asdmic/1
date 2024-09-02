@@ -1,6 +1,10 @@
 {"urls":
 [
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json","name":"TV_1"},
+//{"name":"00_弓乃凜夢","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/TVboxo/main/tv/🔞巨乳清纯女神-弓乃凜夢★32部527G.txt","type":"remote","epg":"","isActive":true,"id":64},
+//{"name":"00_无码流出","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/TVboxo/main/tv/🔞无码流出H265汇总907GB_295v .txt","type":"remote","epg":"","isActive":true,"id":65},
+{"name":"00_黄色点播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/TVboxo/main/tv/🔞黄色点播.txt","type":"remote","epg":"","isActive":true,"id":67},
+{"name":"00_🈲VIP频道","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/TVboxo/main/tv/🔞🈲VIP频道-20240804_093220-20240804_093220.txt","type":"remote","epg":"","isActive":true,"id":68},
 {"name":"xxx Japan 1","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u","type":"remote","epg":"","isActive":true,"id":5},
 {"name":"xxx Japan 2","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u","type":"remote","epg":"","isActive":true,"id":6},
 {"name":"xxx Japan A-B","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u","type":"remote","epg":"","isActive":true,"id":7},
