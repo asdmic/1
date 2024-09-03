@@ -1,71 +1,93 @@
 #EXTM3U
-#EXTINF:-1 logo="",三立新聞
+#EXTINF:-1 ,三立新聞
 https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-#EXTINF:-1 logo="",東森新聞
+#EXTINF:-1 ,東森新聞
 https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-#EXTINF:-1 logo="",民視
+#EXTINF:-1 ,民視
 https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
-#EXTINF:-1 logo="",GTV八大戲劇台HD
+#EXTINF:-1 ,GTV八大戲劇台HD
 http://61.221.215.25:8800/hls/39/index.m3u8 
-#EXTINF:-1 logo="",GTV八大第1台HD
+#EXTINF:-1 ,GTV八大第1台HD
 http://61.221.215.25:8800/hls/55/index.m3u8 
-#EXTINF:-1 logo="",GTV八大綜合台HD
+#EXTINF:-1 ,GTV八大綜合台HD
 http://61.221.215.25:8800/hls/56/index.m3u8 
-#EXTINF:-1 logo="",緯來精采台
+#EXTINF:-1 ,緯來精采台
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 logo="",三立戲劇台
+#EXTINF:-1 ,三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 logo="",TVBS新聞台
+#EXTINF:-1 ,TVBS新聞台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 logo="",寰宇新聞
+#EXTINF:-1 ,寰宇新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 logo="",鏡新聞
+#EXTINF:-1 ,鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 logo="",三立新聞
+#EXTINF:-1 ,三立新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 logo="",東森新聞
+#EXTINF:-1 ,東森新聞
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 logo="",TVBS亞洲
+#EXTINF:-1 ,TVBS亞洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 logo="",民視新聞
+#EXTINF:-1 ,民視新聞
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 logo="",台視新聞
+#EXTINF:-1 l,台視新聞
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 logo="",中視
+#EXTINF:-1 ,中視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 logo="",華視
+#EXTINF:-1 ,華視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 logo="",東森美洲
+#EXTINF:-1 ,東森美洲
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 logo="",東森超視
+#EXTINF:-1 ,東森超視
 https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
-#EXTINF:-1 logo="",緯來體育
+#EXTINF:-1 ,緯來體育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-#EXTINF:-1 logo="",Japan 1
+#EXTINF:-1 ,Japan 1
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
-#EXTINF:-1 logo="",Japan 2
+#EXTINF:-1 ,Japan 2
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
-#EXTINF:-1 logo="",Japan A-B
+#EXTINF:-1 ,Japan A-B
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
-#EXTINF:-1 logo="",Japan C-H
+#EXTINF:-1 ,Japan C-H
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
-#EXTINF:-1 logo="",Japan I-L
+#EXTINF:-1 ,Japan I-L
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
-#EXTINF:-1 logo="",Japan M-R
+#EXTINF:-1 ,Japan M-R
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
-#EXTINF:-1 logo="",Japan S
+#EXTINF:-1 ,Japan S
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
-#EXTINF:-1 logo="",Japan T-W
+#EXTINF:-1 ,Japan T-W
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
-#EXTINF:-1 logo="",Japan X
+#EXTINF:-1 ,Japan X
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
-#EXTINF:-1 logo="",Japan Y
+#EXTINF:-1 ,Japan Y
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
-#EXTINF:-1 logo="",Japan Z
+#EXTINF:-1 ,Japan Z
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
-#EXTINF:-1 logo="",xxx
+#EXTINF:-1 ,xxx
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx.m3u
-#EXTINF:-1 logo="",司机合集
+#EXTINF:-1 ,司机合集
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%8F%B8%E6%9C%BA%E5%90%88%E9%9B%86.m3u
-#EXTINF:-1 logo="",影子直播(苹果用）
+#EXTINF:-1 ,影子直播(苹果用）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD.m3u
+#EXTINF:-1 ,成人_1
+http://10238.vod.adultiptv.net/ph5bb3807112cac/play.m3u8
+#EXTINF:-1 ,成人_2
+http://10238.vod.adultiptv.net/ph5be944e6254e8/play.m3u8
+#EXTINF:-1 ,成人_3
+http://10238.vod.adultiptv.net/ph5bf3984866974/play.m3u8
+#EXTINF:-1 ,成人_4
+http://10238.vod.adultiptv.net/ph5bf862484bd41/play.m3u8
+#EXTINF:-1 ,成人_5
+http://10238.vod.redtraffic.xyz/ph5588a5c6e3a59/play.m3u8
+#EXTINF:-1 ,成人_6
+http://10238.vod.redtraffic.xyz/ph5663156221910/play.m3u8
+#EXTINF:-1 ,成人_7
+http://10238.vod.redtraffic.xyz/ph5674cdb89d10e/play.m3u8
+#EXTINF:-1 ,成人_8
+http://10238.vod.redtraffic.xyz/ph56c8dd3304285/play.m3u8
+#EXTINF:-1 ,成人_9
+http://10238.vod.redtraffic.xyz/ph56fabdddb0dc4/play.m3u8
+#EXTINF:-1 ,成人_10
+http://10238.vod.redtraffic.xyz/ph570c9760d93a5/play.m3u8
+#EXTINF:-1 希崎杰西卡 若過ぎた義理の母 2017
+https://videojc.hndtl.com/20191012/BrblIMf0/1000kb/hls/index.m3u8
