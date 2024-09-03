@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,三立新聞
-https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-#EXTINF:-1 ,東森新聞
-https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-#EXTINF:-1 ,民視
-https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 #EXTINF:-1 ,GTV八大戲劇台HD
 http://61.221.215.25:8800/hls/39/index.m3u8 
 #EXTINF:-1 ,GTV八大第1台HD
@@ -41,34 +35,6 @@ http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 #EXTINF:-1 ,緯來體育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-#EXTINF:-1 ,Japan 1
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
-#EXTINF:-1 ,Japan 2
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
-#EXTINF:-1 ,Japan A-B
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
-#EXTINF:-1 ,Japan C-H
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
-#EXTINF:-1 ,Japan I-L
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
-#EXTINF:-1 ,Japan M-R
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
-#EXTINF:-1 ,Japan S
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
-#EXTINF:-1 ,Japan T-W
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
-#EXTINF:-1 ,Japan X
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
-#EXTINF:-1 ,Japan Y
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
-#EXTINF:-1 ,Japan Z
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
-#EXTINF:-1 ,xxx
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx.m3u
-#EXTINF:-1 ,司机合集
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%8F%B8%E6%9C%BA%E5%90%88%E9%9B%86.m3u
-#EXTINF:-1 ,影子直播(苹果用）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD.m3u
 #EXTINF:-1 ,成人_1
 http://10238.vod.adultiptv.net/ph5bb3807112cac/play.m3u8
 #EXTINF:-1 ,成人_2
@@ -89,5 +55,12 @@ http://10238.vod.redtraffic.xyz/ph56c8dd3304285/play.m3u8
 http://10238.vod.redtraffic.xyz/ph56fabdddb0dc4/play.m3u8
 #EXTINF:-1 ,成人_10
 http://10238.vod.redtraffic.xyz/ph570c9760d93a5/play.m3u8
-#EXTINF:-1 希崎杰西卡 若過ぎた義理の母 2017
-https://videojc.hndtl.com/20191012/BrblIMf0/1000kb/hls/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXNHp0LGFhN2t2squ6LgzNi9ZZZMfd5WM_w&usqp=CAU",ADN-368 武藤彩香★私、息子の友人と性爱しています。2022
+https://video.zmwbf.com/20230420/ZGE2NTRlMz/205355/1280/hls/encrypt/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GbQxS0jXrzU-Yn77w_3UY4vCnQwcxDfSCQ&usqp=CAU",ADN-416 岬奈奈美★禁じられた背徳姦 7 若過ぎた義理の母 2022
+https://video.myzybo.com/20230203/MWJiYjllNG/074537/1280/hls/encrypt/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PFe89JvqQ7dgw8g_vSUb-6BheMYPamHyYQ&usqp=CAU",ADN-439 櫻井麻美★お義父さんは私の事、どう思ってますか？2022
+https://video.myzybo.com/20230513/NzkxNjZiYz/124759/1280/hls/encrypt/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpC2CzKJv8MU17HrlrPBWGq8LOEzQtkrWEyQ&usqp=CAU",ADN-464 纱纱原百合★禁じられた背徳姦 8 若過ぎた義理の母 2023
+https://play4.laoyacdn.com/20240307/ytDbrzl9/index.m3u8
+
