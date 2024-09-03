@@ -1,7 +1,70 @@
 #EXTM3U
-#EXTINF:-1 logo="",01-01 浙江?江都市
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 logo="",01-02 浙江??生活
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 logo="",三立新聞
+https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+#EXTINF:-1 logo="",東森新聞
+https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
+#EXTINF:-1 logo="",民視
+https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+#EXTINF:-1 logo="",GTV八大戲劇台HD
+http://61.221.215.25:8800/hls/39/index.m3u8 
+#EXTINF:-1 logo="",GTV八大第1台HD
+http://61.221.215.25:8800/hls/55/index.m3u8 
+#EXTINF:-1 logo="",GTV八大綜合台HD
+http://61.221.215.25:8800/hls/56/index.m3u8 
+#EXTINF:-1 logo="",緯來精采台
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 logo="",三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 logo="",TVBS新聞台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 logo="",寰宇新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 logo="",鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 logo="",三立新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 logo="",東森新聞
+http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 logo="",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 logo="",民視新聞
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 logo="",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 logo="",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 logo="",華視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 logo="",東森美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 logo="",東森超視
+https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
+#EXTINF:-1 logo="",緯來體育
+https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
+#EXTINF:-1 logo="",Japan 1
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
+#EXTINF:-1 logo="",Japan 2
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
+#EXTINF:-1 logo="",Japan A-B
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
+#EXTINF:-1 logo="",Japan C-H
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
+#EXTINF:-1 logo="",Japan I-L
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
+#EXTINF:-1 logo="",Japan M-R
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
+#EXTINF:-1 logo="",Japan S
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
+#EXTINF:-1 logo="",Japan T-W
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
+#EXTINF:-1 logo="",Japan X
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
+#EXTINF:-1 logo="",Japan Y
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
+#EXTINF:-1 logo="",Japan Z
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
+#EXTINF:-1 logo="",xxx
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx.m3u
+#EXTINF:-1 logo="",司机合集
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%8F%B8%E6%9C%BA%E5%90%88%E9%9B%86.m3u
+#EXTINF:-1 logo="",影子直播(苹果用）
